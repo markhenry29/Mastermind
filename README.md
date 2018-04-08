@@ -1,0 +1,2 @@
+# Mastermind
+Interface graphique GTK
